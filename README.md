@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Desvendando os segredos do PowerBI
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O podcast traz de uma forma resumida e simples o que é a ferramenta powerbi e como ela pode ser útil nas atividades desenvolvidas e analisadas no dia a dia, bem como menciona alguns exemplos em que ela pode estar sendo utilizada.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para criação de roteiro, insigths e revisão foi utilizada a IA generativa ChatGPT 
+Para conversão de texto em voz foi usado o programa CapCut
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O chatgpt foi usado no desenvolvimento do roteiro e revisão, já o CapCut foi utilizado para edição e conversão de texto em voz.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com esse episódio do Podcast é possível entender melhor sobre o que é a ferramenta PowerBI e como ela pode ser usada para facilitar suas atividades no dia a dia e poder planejar e acompanhar seus projetos e resultados
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
